@@ -6,4 +6,5 @@
   <img src="https://render.gitanimals.org/lines/{T43BB1}?pet-id=748772820138559816 " width="1000" height="120"/>
 </a>
 ------------
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=T43BB1&show_icons=true&theme=radical)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=T43BB1&show_icons=true&theme=dracula)
