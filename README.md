@@ -1,6 +1,6 @@
 📧 t43bb10910@gmail.com
 
-#태희
+태희
 ------------------------
 
 <a href="https://github.com/devxb/gitanimals">
