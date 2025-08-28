@@ -9,6 +9,4 @@
 
 ------------------------
 
-<a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=T43BB1&show_icons=true&theme=dracula)
-</a>
